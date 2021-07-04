@@ -421,7 +421,7 @@
     "components": [
         {
             "name": "AppComponent",
-            "id": "component-AppComponent-d425efd687988a03321247637e2bc54e",
+            "id": "component-AppComponent-3e202e19e53f38d924f23c16f900ad93",
             "file": "src/app/app.component.ts",
             "encapsulation": [],
             "entryComponents": [],
@@ -439,7 +439,7 @@
             "propertiesClass": [
                 {
                     "name": "title",
-                    "defaultValue": "'intro-storybook-angular-template'",
+                    "defaultValue": "'taskbox'",
                     "type": "string",
                     "optional": false,
                     "description": "",
@@ -452,7 +452,7 @@
             "description": "",
             "rawdescription": "",
             "type": "component",
-            "sourceCode": "import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-root',\n  template: `\n    <app-inbox-screen></app-inbox-screen>\n  `,\n})\nexport class AppComponent {\n  title = 'intro-storybook-angular-template';\n}\n",
+            "sourceCode": "import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-root',\n  template: `\n    <app-inbox-screen></app-inbox-screen>\n  `,\n})\nexport class AppComponent {\n  title = 'taskbox';\n}\n",
             "assetsDirs": [],
             "styleUrlsData": "",
             "stylesData": ""
